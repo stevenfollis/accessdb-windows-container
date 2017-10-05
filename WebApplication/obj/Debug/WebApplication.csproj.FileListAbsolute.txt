@@ -1,0 +1,6 @@
+c:\users\steven\documents\visual studio 2017\Projects\AccessContainer\WebApplication\bin\WebApplication.dll.config
+c:\users\steven\documents\visual studio 2017\Projects\AccessContainer\WebApplication\bin\WebApplication.dll
+c:\users\steven\documents\visual studio 2017\Projects\AccessContainer\WebApplication\bin\WebApplication.pdb
+c:\users\steven\documents\visual studio 2017\Projects\AccessContainer\WebApplication\obj\Debug\WebApplication.dll
+c:\users\steven\documents\visual studio 2017\Projects\AccessContainer\WebApplication\obj\Debug\WebApplication.pdb
+C:\Users\steven\documents\visual studio 2017\Projects\AccessContainer\WebApplication\obj\Debug\WebApplication.csprojResolveAssemblyReference.cache
